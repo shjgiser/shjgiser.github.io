@@ -1,2 +1,2 @@
-shjgiser.github.io
+My homepage using github pages.
 ==================
